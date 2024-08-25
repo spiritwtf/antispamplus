@@ -1,0 +1,6 @@
+name: AntiSpam
+version: ${version}
+main: me.spirit.antispam.AntiSpam
+api-version: '1.13'
+prefix: AntiSpam
+authors: [spirit]
